@@ -17,8 +17,7 @@
         "php": "^8.0",
         "illuminate/config": "^9.0|^10|^11",
         "illuminate/session": "^9.0|^10|^11",
-        "illuminate/support": "^9.0|^10|^11",
-        "laravelcollective/html": "^6.4|6.x-dev"
+        "illuminate/support": "^9.0|^10|^11"
     },
     "require-dev": {
         "mockery/mockery": "~1.6.1",
